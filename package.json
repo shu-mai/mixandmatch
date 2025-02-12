@@ -1,0 +1,24 @@
+{
+  "name": "mix-and-match",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shu-mai/mixandmatch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shu-mai/mixandmatch/issues"
+  },
+  "homepage": "https://github.com/shu-mai/mixandmatch#readme",
+  "description": "",
+  "devDependencies": {
+    "vite": "^6.1.0"
+  }
+}
