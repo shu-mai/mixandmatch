@@ -15,7 +15,7 @@ body {
   margin: auto;
   box-sizing: border-box;
   position: relative;
-  /* background: url("img/background_01.jpg")
+  /* background: url("/img/background_01.jpg")
     center center fixed; */
   overflow: visible;
 }
