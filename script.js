@@ -14,7 +14,7 @@ bgButton.addEventListener('click', () => {
     if(bgCounter > 3){
         bgCounter = 1;
     }
-    bgImage.style.backgroundImage=`url(img/background_0${bgCounter}.jpg)`;
+    bgImage.style.backgroundImage=`url(/img/background_0${bgCounter}.jpg)`;
 });
 
 accButton.addEventListener('click', () => {
